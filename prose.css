@@ -1,6 +1,6 @@
 html {
   font-size: max(20pt, 2vw);
-} 
+}
 
 :focus {
   outline-style: dotted;
